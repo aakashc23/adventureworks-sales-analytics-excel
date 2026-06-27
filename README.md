@@ -18,13 +18,13 @@ The dashboard is designed to replicate the type of reporting used by sales manag
 
 ## 📈 Time Analysis Dashboard
 
-![Time Dashboard](report1.png)
+![Time Dashboard](images/report1.png)
 
 ---
 
 ## 📊 Product & Customer Performance Dashboard
 
-![Performance Dashboard](report2.png)
+![Performance Dashboard](images/report1.png)
 
 ---
 
